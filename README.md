@@ -2,11 +2,6 @@
 
 A two-page Power BI dashboard that analyses a year of credit card activity (2023) to show where revenue comes from and which customer segments drive it.
 
-## Dashboard Preview
-
-![Transaction Report](C:\Users\umerc\Pictures\Screenshots)
-![Customer Report](images/customer-report.png)
-
 ## Data
 
 - **Source:** PostgreSQL database (`ccdb`), loaded into Power BI with Power Query
@@ -41,11 +36,6 @@ Both pages include a week slicer and filters for gender, income group and card c
 ## Tools
 
 Power BI, DAX, Power Query, PostgreSQL
-
-## Files
-
-- `Credit card.pbix`: the Power BI report
-- `images/`: dashboard screenshots
 
 ## Note
 
